@@ -1,4 +1,6 @@
 [package]
 name = "appinstance"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["S.Percentage <Syn.Tri.Naga@gmail.com>"]
+description = "Global instance declaration macro in application"
+
