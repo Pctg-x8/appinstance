@@ -3,4 +3,8 @@ name = "appinstance"
 version = "1.0.0"
 authors = ["S.Percentage <Syn.Tri.Naga@gmail.com>"]
 description = "Global instance declaration macro in application"
+repository = "https://github.com/Pctg-x8/appinstance"
+keywords = ["singleton"]
+license = "MIT"
+license-file = "LICENSE"
 
